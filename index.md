@@ -9,4 +9,4 @@ this page is help you to explore this website.
 
 >language：
 >
->[中文](/zhcn.md "中文！")
+>[中文](/zhcn "中文！")
