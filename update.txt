@@ -1,0 +1,6 @@
+2022/12/31 update log:
+1 update "update.txt"
+2 update /download
+3 update /zhcn/download
+4 fix some bug.
+--end--
