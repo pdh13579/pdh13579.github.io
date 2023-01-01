@@ -1,4 +1,4 @@
-# *def_main*
+# **def_main**
 welcome to my web!
 this page is help you to explore this website.
 >pages
@@ -7,7 +7,7 @@ this page is help you to explore this website.
 >
 >[download my file](/download "download pages")
 >
->[update log](/update.txt)
+>[update log](/update.log)
 >
 >language：
 >
